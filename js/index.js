@@ -1,4 +1,4 @@
-var target_date = 1477437675938 + (1000*3600*78); // set the countdown date
+var target_date = 1477437675938 + (1000*3600*50); // set the countdown date
 var days, hours, minutes, seconds; // variables for time units
 
 var countdown = document.getElementById("tiles"); // get tag element
